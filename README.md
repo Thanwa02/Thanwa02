@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋! My name is Thanwa Sakdarat </h1>
 
 ###
+<div align="center">
+  ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+</div>
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 
 <div align="center">
